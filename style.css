@@ -1,0 +1,44 @@
+body {
+    width: 600px;
+    border: 2px solid black;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0 0 10px black;
+    background-image: url();
+}
+
+header .divl1 label {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+}
+
+h5 address u {
+    text-decoration: underline;
+}
+
+h5 address {
+    text-align: left;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div1 h5 {
+    text-align: right;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    text-align: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+}
+
+p {
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    background-position: 1em;
+}
